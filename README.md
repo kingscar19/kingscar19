@@ -1,32 +1,42 @@
+<!-- Banner -->
 <h1 align="center">Hi 👋, I'm Sai Ingale</h1>
-<h3 align="center">Computer Engineering Student | Full Stack Developer | AI & ML Enthusiast | Open Source Learner</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer • 🤖 AI & ML Enthusiast • ☁️ Cloud Computing Learner
+</h3>
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+Learner;Always+Learning+New+Technologies!" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+Learner;Always+Learning+New+Technologies!" />
+  <img src="https://komarev.com/ghpvc/?username=kingscar19&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Engineering Student
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-💻 Passionate about Full Stack Development, Artificial Intelligence, and Machine Learning
+🎓 **Computer Engineering Student**
 
-🌱 Currently learning
-- MERN Stack
-- Generative AI
-- Data Structures & Algorithms
-- Cloud Computing
+💡 Passionate about building **AI-powered applications** and **Full Stack Web Solutions**
 
-🚀 Building real-world AI and Web applications
+🌱 Currently exploring
 
-🎯 Goal: Become a Software Engineer at a Product-Based Company
+- ⚛️ MERN Stack Development
+- 🤖 Generative AI & Large Language Models
+- 📊 Data Structures & Algorithms
+- ☁️ Cloud Computing
+- 🧠 System Design
 
-⚡ Fun Fact: I enjoy solving coding problems and building practical projects.
+🚀 Building projects that solve **real-world problems**
+
+
+⚡ **Fun Fact**
+
+> "I believe the best way to learn is by building."
 
 ---
-
 ## 🌐 Connect with Me
 
 <p align="center">
