@@ -89,15 +89,36 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode,postman" />
 </p>
 
-## 📊 GitHub Stats
+## 🏆 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kingscar19&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kingscar19&theme=gruvbox&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=kingscar19&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingscar19&layout=compact&theme=gruvbox&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingscar19&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingscar19&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kingscar19&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kingscar19&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kingscar19&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kingscar19&theme=algolia&no-frame=true&no-bg=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kingscar19&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kingscar19/kingscar19/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ## 🏆 GitHub Trophies
