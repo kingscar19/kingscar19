@@ -110,10 +110,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kingscar19&theme=algolia&no-frame=true&no-bg=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingscar19&theme=tokyo-night&hide_border=true"/>
 </p>
 
@@ -121,16 +117,9 @@
 <img src="https://raw.githubusercontent.com/kingscar19/kingscar19/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kingscar19&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kingscar19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=kingscar19&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
